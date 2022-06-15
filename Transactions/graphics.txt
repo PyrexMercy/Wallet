@@ -1,0 +1,5 @@
+5.44959
+21.7984
+Business (taxes, salary, advertising, office and stationery, services):0.250000
+Apartment and communication (electricity, water, heat, gas, radio, telephone, internet, rent, garbage collection, cable TV, security, concierge):0.500000
+games:0.250000
